@@ -1,6 +1,8 @@
+
 import os
 
-while True:
+   while True:
+    
     # Запит шляху до файлу від користувача
     file_path = input("Введіть шлях до файлу: ")
 
