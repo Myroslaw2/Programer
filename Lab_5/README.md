@@ -4,4 +4,4 @@ pip install -r requirements.txt
 
 Після цього вводимо команду для запуску програми:
 
-python Lab_5.py
+python -m Lab_5
